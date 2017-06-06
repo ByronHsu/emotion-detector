@@ -1,0 +1,58 @@
+#photo{
+    height:auto;
+    max-height:300px;
+    width:auto;
+    max-width:500px;
+}
+#response{
+    display:none;
+}
+#Title{
+    text-align:center;
+}
+#filename{
+    position:absolute;
+    left:60em;
+}
+#btn{
+    position:absolute;
+    left:75em; 
+}
+#photo{
+    position:absolute;
+    left:30em; 
+    top:8em;
+    display:none;
+}
+#emotion{
+    position:absolute;
+    font-size:1.5em;
+    left:21em; 
+    top:19em;
+    height:12em;
+    width:17em;
+}
+#anger{
+color: #e20909;
+}
+#contempt{
+color: #9c24af;
+}
+#disgust{
+color: #2d9231;
+}
+#fear{
+color: #123fc7;
+}
+#happiness{
+color: #FFC107;
+}
+#neutral{
+color: #9E9E9E;
+}
+#sadness{
+color: #03A9F4;
+}
+#surprise{
+color: #FF9800;
+}
